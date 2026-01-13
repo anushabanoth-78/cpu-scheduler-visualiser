@@ -66,7 +66,7 @@ Instead of explaining algorithms only theoretically, this project:
 
 <hr>
 
-<h2>Proposed Scheduling Algorithm (Interview Highlight)</h2>
+<h2>Proposed Scheduling Algorithm </h2>
 
 <p>
 The <b>Proposed Scheduling Algorithm</b> is a hybrid approach that combines:
@@ -87,11 +87,6 @@ The <b>Proposed Scheduling Algorithm</b> is a hybrid approach that combines:
   <li>Improved response time</li>
   <li>Better CPU utilization</li>
 </ul>
-
-<p>
-This approach demonstrates <b>optimization-oriented thinking</b>, which is highly valued in interviews.
-</p>
-
 <hr>
 
 <h2>Application Walkthrough</h2>
