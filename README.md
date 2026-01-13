@@ -1,4 +1,24 @@
 <h1>CPU Scheduling Algorithm Visualizer</h1>
+<h2>Team Project</h2>
+<p>
+This project was developed as a <b>team project by a group of 4 members</b>.
+Each member contributed to different aspects of the system, including
+algorithm implementation, UI design, visualization, and testing.
+</p>
+
+<ul>
+  <li>CPU Scheduling Algorithm Implementation</li>
+  <li>User Interface Design and Responsiveness</li>
+  <li>Gantt Chart Visualization</li>
+  <li>Performance Metrics Evaluation</li>
+</ul>
+
+<p>
+Working as a team helped strengthen collaboration, problem-solving skills,
+and provided experience with real-world software development practices.
+</p>
+
+
 
 <p>
 An interactive, responsive <b>web-based CPU Scheduling Algorithm Visualizer</b> built using
@@ -194,23 +214,5 @@ for a given set of processes.
 
 <hr>
 
-<h2>Team Project</h2>
 
-<p>
-This project was developed as a <b>team project by a group of 4 members</b>.
-Each member contributed to different aspects of the system, including
-algorithm implementation, UI design, visualization, and testing.
-</p>
-
-<ul>
-  <li>CPU Scheduling Algorithm Implementation</li>
-  <li>User Interface Design and Responsiveness</li>
-  <li>Gantt Chart Visualization</li>
-  <li>Performance Metrics Evaluation</li>
-</ul>
-
-<p>
-Working as a team helped strengthen collaboration, problem-solving skills,
-and provided experience with real-world software development practices.
-</p>
 
