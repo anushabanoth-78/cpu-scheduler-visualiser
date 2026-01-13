@@ -165,7 +165,9 @@ has its own Gantt Chart for clear visual comparison.
   <li>Throughput</li>
   <li>Context Switching Count</li>
 </ul>
-
+<p align="center">
+  <img src="images/results.png" alt="Scheduling Results Table" width="700">
+</p>
 <p>
 The system automatically identifies the <b>best-performing algorithm</b>
 for a given set of processes.
