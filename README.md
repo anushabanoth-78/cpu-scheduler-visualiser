@@ -170,8 +170,3 @@ for the given set of processes.
 </ol>
 
 
-<h2>📜 License</h2>
-
-<p>
-This project is licensed under the <b>MIT License</b>.
-</p>
