@@ -1,14 +1,21 @@
 <h1>CPU Scheduling Algorithm Visualizer</h1>
+<h2>🚀 Live Demo</h2>
+
+<p>
+Click below to view the working project:
+</p>
+
+<p align="center">
+  <a href="https://anushabanoth-78.github.io/cpu-scheduler-visualiser/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 <p>
 An interactive, responsive <b>web-based CPU Scheduling Algorithm Visualizer</b> built using
 <b>HTML, CSS, and JavaScript</b>.
 </p>
-<a href="https://anushabanoth-78.github.io/cpu-scheduler-visualiser/" target="_blank" style="text-decoration:none;">
-  <button style="background:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px;">
-    View Live Demo
-  </button>
-</a>
+  
 
 
 <p>
