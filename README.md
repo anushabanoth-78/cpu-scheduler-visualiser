@@ -4,6 +4,12 @@
 An interactive, responsive <b>web-based CPU Scheduling Algorithm Visualizer</b> built using
 <b>HTML, CSS, and JavaScript</b>.
 </p>
+<a href="https://anushabanoth-78.github.io/cpu-scheduler-visualiser/" target="_blank" style="text-decoration:none;">
+  <button style="background:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px;">
+    View Live Demo
+  </button>
+</a>
+
 
 <p>
 This project simulates, visualizes, and compares <b>9 CPU scheduling algorithms</b> using
